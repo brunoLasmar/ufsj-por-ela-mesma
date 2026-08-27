@@ -13,26 +13,42 @@ stopwords_personalizadas = stopwords_pt + [
     "sobre", "dia", "ano", "após", "nesta", "via", "campus"
 ]
 
-def extrair_texto(file_path: str):
+def extrair_texto_e_datas(file_path: str):
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             dados = json.load(file)
         
-        textos_extraidos = [dado['texto'] for dado in dados if 'texto' in dado and dado['texto'] and dado['texto'].strip()] 
+        textos_extraidos = []
+        datas_extraidas = []
+        
+        for dado in dados:
+            # verifica se AMBAS as chaves existem e não estão vazias
+            texto_valido = 'texto' in dado and bool(dado['texto']) and bool(dado['texto'].strip())
+            data_valida = 'data_publicacao' in dado and bool(dado['data_publicacao']) and bool(dado['data_publicacao'].strip())
+            
+            if texto_valido and data_valida:
+                textos_extraidos.append(dado['texto'])
+                datas_extraidas.append(dado['data_publicacao'])
 
-        # print(f"Total de textos válidos extraídos: {len(textos_extraidos)}")
-        # print(textos_extraidos[1])
-        return textos_extraidos
+        return textos_extraidos, datas_extraidas
         
     except Exception as e:
         print(f"Erro: {e}")
         return []
 
 def main():
-    textos_treino = []
-    textos_treino = extrair_texto("noticias.json") + extrair_texto("boletins.json")
+    textos_noticias, datas_noticias = extrair_texto_e_datas("noticias.json")
+    textos_boletins, datas_boletins = extrair_texto_e_datas("boletins.json")
+
+    textos_treino = textos_noticias + textos_boletins
+    datas_treino = datas_noticias + datas_boletins
     
-    # print(f"Total de textos válidos extraídos: {len(textos_treino)}")
+    print(f"Total de textos válidos extraídos: {len(textos_treino)}")
+    print(f"Total de datas válidas extraídas: {len(datas_treino)}")
+
+    if len(textos_treino) != len(datas_treino):
+        print("ERRO CRÍTICO: As listas de textos e datas estão dessincronizadas.")
+        return # interrompe o script antes de travar o modelo
     
     modelo_embedding = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
     vectorizer_model = CountVectorizer(
@@ -56,12 +72,29 @@ def main():
         nr_topics = "auto"
     )
 
+    print("Treinando o modelo BERTopic com os textos extraídos...")
     topicos, probabilidades = modelo_topicos.fit_transform(textos_treino)
-    
-    print(modelo_topicos.get_topic_info())
-    
-    fig = modelo_topicos.visualize_topics()
-    fig.show()
+
+    df_topicos = modelo_topicos.get_topic_info()
+    df_topicos.to_json("info_topicos.json", orient="records", force_ascii=False, indent=4)
+    print("Tabela de tópicos salva em 'info_topicos.json'.")
+
+    topicos_tempo = modelo_topicos.topics_over_time(textos_treino, datas_treino, nr_bins=20)
+    topicos_tempo.to_json("topicos_tempo.json", orient="records", force_ascii=False, indent=4)
+    print("Evolução temporal salva em 'topicos_tempo.json'.")
+
+    df_documentos = modelo_topicos.get_document_info(textos_treino)
+    df_documentos.to_json("info_documentos.json", orient="records", force_ascii=False, indent=4)
+    print("Distribuição de documentos salva em 'info_documentos.json'.")
+
+    hierarquia = modelo_topicos.hierarchical_topics(textos_treino)
+    arvore = modelo_topicos.get_topic_tree(hierarquia)
+    with open("arvore_topicos.txt", "w", encoding="utf-8") as f:
+        f.write(arvore)
+    print("Árvore hierárquica salva em 'arvore_topicos.txt'.")
+
+    modelo_topicos.save("modelo_topicos_ufsj", serialization="safetensors", save_embedding_model=True)
+    print("Modelo BERTopic salvo na pasta 'modelo_topicos_ufsj'.")
     
 if __name__ == "__main__":
     main()

@@ -1,0 +1,29 @@
+.
+├─programa_graduação_curso_pós_pesquisa
+│    ├─comunicação_pública_jornalismo_comunicação pública_ebc
+│    │    ├─■──enap_pública_administração pública_nacional administração_escola nacional ── Topic: 12
+│    │    └─■──comunicação_jornalismo_comunicação pública_pública_ebc ── Topic: 10
+│    └─programa_graduação_curso_pós_pesquisa
+│         ├─graduação_programa_curso_educação_pesquisa
+│         │    ├─■──competição_computação_equipe_programação_maratona ── Topic: 5
+│         │    └─programa_graduação_curso_educação_pesquisa
+│         │         ├─programa_graduação_curso_educação_pesquisa
+│         │         │    ├─■──negra_negro_diversidade_data_africanos ── Topic: 3
+│         │         │    └─programa_graduação_curso_educação_pós
+│         │         │         ├─■──programa_graduação_educação_pós_pesquisa ── Topic: 0
+│         │         │         └─■──joão_cultural_del_joão del_teatro ── Topic: 1
+│         │         └─■──propostas_edital_proex_extensão_cultura ── Topic: 7
+│         └─psicanálise_violência_psicologia_saúde_usp
+│              ├─■──violência_sexual_saúde_contra_atenção ── Topic: 9
+│              └─■──psicanálise_psicologia_gihpp_política_psicanalista ── Topic: 6
+└─pesquisa_nepe_cesta_música_vagas
+     ├─música_edital_vagas_inscrições_enem
+     │    ├─música_vagas_edital_enem_musical
+     │    │    ├─■──música_enem_musical_vagas_banda ── Topic: 8
+     │    │    └─■──ppgcm_programa pós_isoladas_ppmec_graduação ciências ── Topic: 11
+     │    └─■──comissão_eleição_comissão eleitoral_eleitoral_edital ── Topic: 14
+     └─nepe_cesta_cesta básica_núcleo_pesquisa
+          ├─■──cesta_nepe_cesta básica_extensão economia_economia nepe ── Topic: 4
+          └─almoço_ecos_cinema_segunda_ctan
+               ├─■──ecos_cinema_filmes_embaúba_embaúba filmes ── Topic: 13
+               └─■──almoço_ctan_segunda_manutenção_ru ── Topic: 2
