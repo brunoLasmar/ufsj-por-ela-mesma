@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import urllib3
 import re
 import json
+from datetime import datetime
 
 def links_mais_noticias(opcao: int): # varre as páginas de notícias e retorna uma lista de links para cada notícia.
     urls_noticias = []
@@ -51,7 +52,7 @@ def extrair_texto_noticia(urls: list[str]): # para cada notícia, extrai seu tí
             noticia = dict()
             noticia["url_origem"] = url
             noticia["titulo"] = titulo_noticia
-            noticia["data_publicacao"] = data_publicacao
+            noticia["data_publicacao"] = datetime.strptime(data_publicacao, "%d/%m/%Y").strftime("%Y/%m/%d") # formata a data para o padrão YYYY/MM/DD
             noticia["texto"] = texto_completo
             dataset.append(noticia)
             
@@ -112,7 +113,7 @@ def extrair_texto_boletins(urls: list[str]):
                     noticia_atual = {
                         "url_origem": url, 
                         "titulo": titulo_limpo, 
-                        "data_publicacao": data_boletim, 
+                        "data_publicacao": datetime.strptime(data_boletim, "%d/%m/%Y").strftime("%Y/%m/%d"), 
                         "texto": ""
                     }
                 else:
@@ -133,9 +134,10 @@ def main():
     
     # links_mais_noticias(0)
     # extrair_texto_noticia(["https://ufsj.edu.br/noticias_ler.php?codigo_noticia=10369"])
-    # extrair_texto_noticia(links_mais_noticias(1))
     
-    extrair_texto_boletins(links_boletins())
+    extrair_texto_noticia(links_mais_noticias(1))
+    
+    # extrair_texto_boletins(links_boletins())
 
 if __name__ == "__main__":
     main()
