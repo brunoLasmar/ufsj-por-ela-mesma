@@ -1,0 +1,1382 @@
+[
+    {
+        "Topic":-1,
+        "Words":"mecatrônica, soldagem, manufatura aditiva, aditiva, engenharia mecatrônica",
+        "Frequency":1,
+        "Timestamp":1670363769600
+    },
+    {
+        "Topic":0,
+        "Words":"ecologia, agros, ciência, saúde, incubadora",
+        "Frequency":7,
+        "Timestamp":1670363769600
+    },
+    {
+        "Topic":26,
+        "Words":"andrade rosy, professores marcelo, rosy ribeiro, rosy, ribeiro",
+        "Frequency":1,
+        "Timestamp":1670363769600
+    },
+    {
+        "Topic":-1,
+        "Words":"meio ambiente, arte palestras, caminhada serra, lenheiro programação, ambiente tema",
+        "Frequency":1,
+        "Timestamp":1712681280000
+    },
+    {
+        "Topic":0,
+        "Words":"esclerose, centrada paciente, proms, esclerose múltipla, abordagem centrada",
+        "Frequency":5,
+        "Timestamp":1712681280000
+    },
+    {
+        "Topic":34,
+        "Words":"pgd, cogam, chefias, sistema, portaria",
+        "Frequency":1,
+        "Timestamp":1712681280000
+    },
+    {
+        "Topic":-1,
+        "Words":"of, pesquisa, estudantes, educação, julho",
+        "Frequency":70,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":0,
+        "Words":"pesquisa, graduação, pós, programa, ciência",
+        "Frequency":111,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":1,
+        "Words":"in, apresentou, morfofuncionais, vitro, in vitro",
+        "Frequency":5,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":2,
+        "Words":"valendo partir, julho solicitação, semestre detalhados, ctan voltam, começo semestre",
+        "Frequency":2,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":3,
+        "Words":"livro, literatura, delac, andré magela, ensino literatura",
+        "Frequency":9,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":5,
+        "Words":"letivo, resolução, art, período, término",
+        "Frequency":8,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":6,
+        "Words":"bill, ep, pablo, música, bill davison",
+        "Frequency":4,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":7,
+        "Words":"negra, educomunicação, latino, negro, afro latino",
+        "Frequency":5,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":8,
+        "Words":"tv brasil, hamburgo, aracy, mineiridades, tv",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":9,
+        "Words":"matemática, xadrez, matemáticas, mirim, marcelo viana",
+        "Frequency":4,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":10,
+        "Words":"orçamento, deputados, câmara deputados, câmara, plenário",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":11,
+        "Words":"lai, jornalismo, rádio, reportagens, jornalistas",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":12,
+        "Words":"nepe, custo, cesta, cesta básica, economia nepe",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":13,
+        "Words":"competição, computação, maratona, equipe, programação",
+        "Frequency":2,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":14,
+        "Words":"entrada cursos, lista chamada, sisu entrada, deste confira, ar lista",
+        "Frequency":1,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":16,
+        "Words":"sudeste, sudeste joão, tecnologia sudeste, remunerado área, perfil exigido",
+        "Frequency":1,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":17,
+        "Words":"saúde mental, mental, psicologia, recuperação pessoal, recuperação",
+        "Frequency":2,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":20,
+        "Words":"química, canellas, bosch, juan canellas, bosch neto",
+        "Frequency":2,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":21,
+        "Words":"bioengenharia, bioengenharia sistemas, sistemas, ppbe, sistemas ecológicos",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":22,
+        "Words":"festa junina, junina, festa, coordenação professoras, humanizado programa",
+        "Frequency":5,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":24,
+        "Words":"tecidos, bioimpressão, órgãos, regenerativa engenharia, nariz",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":26,
+        "Words":"ufsm, fabiano, felipe, fabiano oliveira, grande pesar",
+        "Frequency":1,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":27,
+        "Words":"cinema, ecos, educação cinema, extensão educação, fernanda",
+        "Frequency":1,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":28,
+        "Words":"enap, administração, nacional administração, pública enap, escola nacional",
+        "Frequency":3,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":31,
+        "Words":"festival, inconsciente, imagens inconsciente, museu imagens, caminhos junguianos",
+        "Frequency":2,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":33,
+        "Words":"histórico joão, centro histórico, visitas, histórico, mediadas centro",
+        "Frequency":2,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":34,
+        "Words":"pgd, novo, gestão, cogam, modelo",
+        "Frequency":1,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":35,
+        "Words":"cepsj, eleição, cepsj formulário, link eleição, br três",
+        "Frequency":1,
+        "Timestamp":1717372800000
+    },
+    {
+        "Topic":-1,
+        "Words":"patrimônio, pesquisa, graduação, minas, engenharia",
+        "Frequency":53,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":0,
+        "Words":"graduação, pós, programa, inscrições, pesquisa",
+        "Frequency":92,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":1,
+        "Words":"bioquímica, biologia, molecular, biologia molecular, atpase",
+        "Frequency":7,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":2,
+        "Words":"restaurantes, segunda sexta, almoço, segunda, almoço segunda",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":3,
+        "Words":"livro, editora, vidas, filosofia, letramentos",
+        "Frequency":8,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":4,
+        "Words":"braille, sinac, acessibilidade, impressora, deficiência",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":5,
+        "Words":"portaria, cadastramento, documentação, prazo, portaria publicada",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":6,
+        "Words":"música, léa, bossa, composições, léa freire",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":8,
+        "Words":"espetáculo, teatro, priscila natany, natany, priscila",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":10,
+        "Words":"orçamentária, orçamento, bilhões, federais, universidades federais",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":11,
+        "Words":"comunicação, ebc, desinformação, combate desinformação, rádio",
+        "Frequency":6,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":12,
+        "Words":"cesta, cesta básica, nepe, custo, custo cesta",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":13,
+        "Words":"competição, computação, baja, programação, sbc",
+        "Frequency":7,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":14,
+        "Words":"vagas, resultado vagas, cadastramento eletrônico, sisu, documentação",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":16,
+        "Words":"dimensões teóricas, teóricas práticas, musical, dimensões, teóricas",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":17,
+        "Words":"psicanálise, política psicanálise, gihpp, psicanalista, política",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":18,
+        "Words":"pqualis, servidores, progp sesed, sesed, qualificação",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":19,
+        "Words":"escolar, belo horizonte, horizonte, belo, municipal",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":20,
+        "Words":"engenharia química, zanetti lofrano, lofrano, carolina zanetti, renata carolina",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":21,
+        "Words":"ppgenbio, bioprocessos biotecnologia, engenharia bioprocessos, bioprocessos, biotecnologia",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":22,
+        "Words":"prédio principal, sala prédio, prédio, principal, anos",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":24,
+        "Words":"marcos, holanda, estágio, engenharia bioprocessos, lab",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":26,
+        "Words":"cerimônia, marcelo, paraná, universidade, amigos",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":27,
+        "Words":"cinema, ecos, cinema educação, diversidade, educação",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":28,
+        "Words":"people, people analytics, analytics, administração pública, administração",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":29,
+        "Words":"licenciatura, delgado ufrj, formação pedagógica, segunda partir, curso convida",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":31,
+        "Words":"festival, ods, ods fest, fest, programação",
+        "Frequency":5,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":32,
+        "Words":"artista, gotas, exposição, espaços, pele",
+        "Frequency":2,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":33,
+        "Words":"histórico joão, mediadas centro, mediadas, visitas mediadas, centro histórico",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":34,
+        "Words":"pgd, chefias, portaria, cogam, programa gestão",
+        "Frequency":1,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":35,
+        "Words":"eleição, comissão, transparência, conselho, representação",
+        "Frequency":3,
+        "Timestamp":1722064320000
+    },
+    {
+        "Topic":-1,
+        "Words":"educação, joão, graduação, estudantes, cultural",
+        "Frequency":64,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":0,
+        "Words":"curso, graduação, pós, edital, programa",
+        "Frequency":130,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":1,
+        "Words":"biologia, biologia celular, celular, tolerância oral, tolerância",
+        "Frequency":5,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":2,
+        "Words":"desligamento energia, desligamento, ntinf, tancredo neves, energia",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":3,
+        "Words":"livro, necropolítica, seca, ceará, joaquim",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":4,
+        "Words":"acessibilidade, deficiência, sinac, inclusão, braille",
+        "Frequency":8,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":5,
+        "Words":"passagens, portaria, diárias, declaração, requisições",
+        "Frequency":9,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":6,
+        "Words":"gatta, la gatta, priscila la, priscila, música",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":7,
+        "Words":"diversidade, cine diversidade, negra, comissão, cine",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":8,
+        "Words":"teatro, espetáculo, afoita teatro, afoita, indicativa",
+        "Frequency":5,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":9,
+        "Words":"mulheres, matemática, ieee, xadrez, chamada atlânticas",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":11,
+        "Words":"jornalismo, comunicação, jornalismo multimídia, multimídia, arthur",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":12,
+        "Words":"nepe, economia nepe, extensão economia, município, núcleo ensino",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":13,
+        "Words":"equipe, melhor, competição, melhor projeto, vice campeonato",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":15,
+        "Words":"prática cerâmica, cerâmica, mailza, prática, artes aplicadas",
+        "Frequency":1,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":16,
+        "Words":"orpheus, piano, música, musical, peyotl",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":17,
+        "Words":"psicanálise, dunker, psicologia, christian dunker, psicanalíticos",
+        "Frequency":4,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":18,
+        "Words":"passo, sesed, progp sesed, progp, sigrh",
+        "Frequency":8,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":19,
+        "Words":"zafiropoulos, dpsic, vinculados, gihpp, grupo",
+        "Frequency":1,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":20,
+        "Words":"uasb, vanessa, pereira, química ppgeq, bôscaro frança",
+        "Frequency":1,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":21,
+        "Words":"bioengenharia, bioquímica biologia, biologia molecular, molecular, bioquímica",
+        "Frequency":4,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":23,
+        "Words":"arquitetura, arquitetura urbanismo, urbanismo, curso arquitetura, xii",
+        "Frequency":7,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":24,
+        "Words":"lab, líria, living lab, living, biostartup",
+        "Frequency":7,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":27,
+        "Words":"cinema, história, televisão, memórias, ecos",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":28,
+        "Words":"dados, pública, enap, nacional administração, pública enap",
+        "Frequency":3,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":29,
+        "Words":"mostra, oportunidade, carreiras, cursos, alunos",
+        "Frequency":2,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":30,
+        "Words":"violência, contra mulher, violência contra, notificação, contra",
+        "Frequency":2,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":31,
+        "Words":"bienal une, une, bienal, festival, reunindo",
+        "Frequency":1,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":33,
+        "Words":"mediadas, visitas mediadas, visitas, centro histórico, mediadas centro",
+        "Frequency":1,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":34,
+        "Words":"pgd, cogam, gestão, programa gestão, desempenho pgd",
+        "Frequency":2,
+        "Timestamp":1726755840000
+    },
+    {
+        "Topic":-1,
+        "Words":"estudantes, programa, projeto, grupo, graduação",
+        "Frequency":41,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":0,
+        "Words":"curso, programa, saúde, educação, graduação",
+        "Frequency":100,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":1,
+        "Words":"pmbqbm, biologia, bioquímica, molecular, biologia molecular",
+        "Frequency":4,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":2,
+        "Words":"almoço, jantar, dipre, internet, portarias",
+        "Frequency":3,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":4,
+        "Words":"trans, pessoas, pessoas trans, inclusão, bahia",
+        "Frequency":3,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":5,
+        "Words":"seseg, declaração, dezembro, serviços, unidades",
+        "Frequency":6,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":6,
+        "Words":"música, repertório, curso música, cultural, rey",
+        "Frequency":4,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":7,
+        "Words":"africanos, áfrica, negra, raciais, sala",
+        "Frequency":9,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":8,
+        "Words":"satã, madame satã, madame, rafael, ratinho",
+        "Frequency":3,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":9,
+        "Words":"matemática, xadrez, tiradentes, xadrez comunidades, torneio",
+        "Frequency":9,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":11,
+        "Words":"cgu colaboração, temas transparência, debatedores renome, debatedores, dados outros",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":12,
+        "Words":"cesta, nepe, cesta básica, economia nepe, extensão economia",
+        "Frequency":2,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":13,
+        "Words":"enfermagem, layane cristina, aris, cristina julia, julia aris",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":14,
+        "Words":"sisu, chamada regular, regular, espera, cadastramento",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":15,
+        "Words":"coletivo viva, viva csl, artesanais, viva, csl",
+        "Frequency":2,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":16,
+        "Words":"banda, álbum, música, churrus, túlio",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":17,
+        "Words":"psicanálise, psicologia, conferência, política, política psicanálise",
+        "Frequency":2,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":18,
+        "Words":"passo, aplicativo, gestão inovação, progp, servidores",
+        "Frequency":2,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":19,
+        "Words":"ppgpsi, marcela fulanete, mendes apresenta, ppgpsi edu, literacia familiar",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":21,
+        "Words":"bioengenharia, bioengenharia sistemas, sistemas, fevereiro encerrando, biológicos dividida",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":23,
+        "Words":"arquitetura, paisagem, arquitetura paisagem, urbanismo, arquitetura urbanismo",
+        "Frequency":3,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":28,
+        "Words":"dados, plano dados, dados abertos, abertos, pública",
+        "Frequency":2,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":29,
+        "Words":"fotos, mostra, álbum fotos, ensino, álbum",
+        "Frequency":4,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":30,
+        "Words":"violência, sexual, saúde, violência sexual, atenção",
+        "Frequency":5,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":31,
+        "Words":"bienal, festival, artes, música mostra, quer prestigiar",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":32,
+        "Words":"ricardo, artistas, artes, artista, bunkyo",
+        "Frequency":3,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":33,
+        "Words":"centro histórico, joão, cidade, joão del, del rei",
+        "Frequency":4,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":34,
+        "Words":"fiscalização, gestão, pgd, boa leitura, avanços aprendizados",
+        "Frequency":1,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":35,
+        "Words":"comissão, comissão eleitoral, eleitoral, eleição, membros docentes",
+        "Frequency":2,
+        "Timestamp":1731447360000
+    },
+    {
+        "Topic":-1,
+        "Words":"engenharia, rodrigo, pesquisa, desenvolvimento, programa",
+        "Frequency":50,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":0,
+        "Words":"programa, pós, graduação, inscrições, pesquisa",
+        "Frequency":126,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":1,
+        "Words":"suplente, silva, suplentes, biologia, ufu",
+        "Frequency":2,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":2,
+        "Words":"ru, ctan, almoço, ntinf, manutenção",
+        "Frequency":9,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":3,
+        "Words":"socorro, chico, livro, autora, editora",
+        "Frequency":3,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":4,
+        "Words":"deficiência, sinac, inclusão, acessibilidade, pessoas",
+        "Frequency":8,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":5,
+        "Words":"declaração, acúmulo, cargos, conforme, progp",
+        "Frequency":2,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":6,
+        "Words":"bloco, orquestra, música, canto, batucanto",
+        "Frequency":4,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":8,
+        "Words":"cabaré, teatro, cleber, espetáculo, vem",
+        "Frequency":4,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":9,
+        "Words":"xadrez, sheila, matemática, ana, xadrez comunidades",
+        "Frequency":5,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":12,
+        "Words":"cesta, nepe, cesta básica, economia nepe, extensão economia",
+        "Frequency":3,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":13,
+        "Words":"melhor, tkvm, melhor projeto, aerodesign, voa micro",
+        "Frequency":1,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":14,
+        "Words":"sisu, chamada regular, regular, espera, chamada",
+        "Frequency":10,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":15,
+        "Words":"fé, religiosas, corpo fé, corpo, ricardo coelho",
+        "Frequency":6,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":16,
+        "Words":"enem, música, enem enem, consiste, item edital",
+        "Frequency":7,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":18,
+        "Words":"passo, progp sesed, sesed, alça capacitação, alça",
+        "Frequency":1,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":19,
+        "Words":"ppgpsi, presidente, banca, silva alvarenga, sessão remota",
+        "Frequency":3,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":20,
+        "Words":"suplente, química, banca, engenharia química, química ppgeq",
+        "Frequency":5,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":21,
+        "Words":"entrevista, currículo, seletivo, processo seletivo, laboratório",
+        "Frequency":1,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":22,
+        "Words":"extensão escreva, cultural ainda, dá tempo, escreva debora, infantojuvenil retoma",
+        "Frequency":1,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":25,
+        "Words":"educação empreendedora, empreendedora, empreendedora engenharia, digital, conferência",
+        "Frequency":1,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":27,
+        "Words":"ecos, cinema, embaúba, filmes, exibição",
+        "Frequency":3,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":30,
+        "Words":"violência, contra, idas, vigilantes, idas vindas",
+        "Frequency":3,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":32,
+        "Words":"ricardo, revista, artéria, poesia, ricardo coelho",
+        "Frequency":4,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":33,
+        "Words":"histórico, tiradentes, geográfico tiradentes, instituto histórico, tiradentes fevereiro",
+        "Frequency":1,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":34,
+        "Words":"pgd, planos, gestão, mgi, primeiro",
+        "Frequency":3,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":35,
+        "Words":"comissão, comissão eleitoral, eleitoral, pessoal docente, permanente pessoal",
+        "Frequency":2,
+        "Timestamp":1736138880000
+    },
+    {
+        "Topic":-1,
+        "Words":"educação, universidade, professores, joão, formação",
+        "Frequency":62,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":0,
+        "Words":"pós, graduação, pesquisa, programa, saúde",
+        "Frequency":119,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":1,
+        "Words":"ciências, bioquímica, ppgcm, biologia, molecular",
+        "Frequency":4,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":2,
+        "Words":"almoço, manutenção, segunda, jantar, vai",
+        "Frequency":4,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":3,
+        "Words":"livro, fliti, mulheres, escolhas destinos, centro",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":4,
+        "Words":"sinac, deficiência, acessibilidade, inclusão, pessoas",
+        "Frequency":4,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":6,
+        "Words":"públicos universidade, corporal realiza, universidade cidade, encontro marcado, gratuitamente espaços",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":8,
+        "Words":"espetáculo, oná, teatro, pocket, pocket show",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":10,
+        "Words":"orçamento, orçamentária, educação, nacional, federais",
+        "Frequency":5,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":11,
+        "Words":"comunicação, comunicação pública, pública, orlando kelm, kelm",
+        "Frequency":5,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":12,
+        "Words":"cesta, nepe, cesta básica, custo, extensão economia",
+        "Frequency":2,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":13,
+        "Words":"lugar, lugar geral, komiketo, terceiro lugar, conquistou",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":14,
+        "Words":"inscreveu lista, calouros segunda, espera ingressar, olho prazos, segunda chamada",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":15,
+        "Words":"fotografia, fotolivros, festival, livros, fotografia tiradentes",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":16,
+        "Words":"lara melo, edésio lara, edésio, ufscar, música",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":17,
+        "Words":"puc, psicanálise, puc coração, debates programados, pulsional",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":18,
+        "Words":"progp, pqualis, lista, sesed, progp sesed",
+        "Frequency":2,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":19,
+        "Words":"tea, autismo, inclusão, vida, pessoas",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":20,
+        "Words":"química ppgeq, ppgeq, engenharia química, química, banca",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":22,
+        "Words":"aulas, comunidade joanense, joanense, teatro, davi",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":23,
+        "Words":"arquitetura, arquitetura urbanismo, urbanismo, curso arquitetura, prêmio",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":25,
+        "Words":"setor acadêmico, ia, américa latina, latina, américa",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":26,
+        "Words":"célia, guest, ian, xakriabá, ian guest",
+        "Frequency":5,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":27,
+        "Words":"cinema, amizade, ecos, embaúba, filmes",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":28,
+        "Words":"enap, escola, públicos, nacional administração, planos",
+        "Frequency":2,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":29,
+        "Words":"desafios digitais, aula magna, aula, abril, magna",
+        "Frequency":3,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":32,
+        "Words":"anuário cerâmica, anuário, cerâmica acadêmica, cerâmica, obras",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":34,
+        "Words":"aposentados pensionistas, pensionistas, pgd, aposentados, dados",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":35,
+        "Words":"comissão, comissão eleitoral, eleitoral, técnicos administrativos, eleição",
+        "Frequency":1,
+        "Timestamp":1740830400000
+    },
+    {
+        "Topic":-1,
+        "Words":"estudantes, projeto, del, junho, inscrições",
+        "Frequency":62,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":0,
+        "Words":"curso, graduação, pesquisa, pós, programa",
+        "Frequency":128,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":1,
+        "Words":"uniptan, patologia, simpósio, biologia, ligas",
+        "Frequency":5,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":2,
+        "Words":"manutenção, rede elétrica, preventiva, restaurante universitário, restaurante",
+        "Frequency":4,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":3,
+        "Words":"portal, literatura, brasileira contemporânea, clóvis, bdb",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":4,
+        "Words":"pessoas, inclusão, gênero, deficiência, acessibilidade",
+        "Frequency":4,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":6,
+        "Words":"canto, música, concerto, cordélia, musicais",
+        "Frequency":4,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":7,
+        "Words":"maio, data, escravidão, gbalá, negro",
+        "Frequency":7,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":8,
+        "Words":"mm, mm gerdau, gerdau, intelectual negro, gerdau museu",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":9,
+        "Words":"matemática, mentalidades, mentalidades matemáticas, matemáticas, aulas",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":10,
+        "Words":"orçamento, federais, orçamentária, universidades, universidades federais",
+        "Frequency":9,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":11,
+        "Words":"israel, oficinas, comunicação, acontece quinta, educomunicação",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":12,
+        "Words":"nepe, economia nepe, extensão economia, núcleo ensino, us milhões",
+        "Frequency":3,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":13,
+        "Words":"programação, maratona, computação, competição, equipe",
+        "Frequency":3,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":14,
+        "Words":"sisu, chamada regular, regular, espera, cadastramento",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":15,
+        "Words":"aluã, exposição, procissões, aquarelas, cortejos",
+        "Frequency":5,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":16,
+        "Words":"ppgmusi, música, junho ppgmusi, ppgmusi oferece, mestrandos junho",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":17,
+        "Words":"psicanálise, gihpp, psicanalista, política, política psicanálise",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":18,
+        "Words":"aplicativo, scdp, diárias passagens, sesed, progp sesed",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":19,
+        "Words":"autismo, conferências franco, brasileiras psicose, universidades paris, ordinária autismo",
+        "Frequency":3,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":21,
+        "Words":"bioengenharia, bioengenharia sistemas, sistemas, mestrado, biologia",
+        "Frequency":4,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":22,
+        "Words":"kit infantil, kit, infantil, oficina, festa junina",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":23,
+        "Words":"arquitetura, arquitetura urbanismo, urbanismo, curso arquitetura, curso",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":25,
+        "Words":"scratch, inteligência artificial, artificial, inteligência, programação",
+        "Frequency":7,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":26,
+        "Words":"célia, ian, guest, ian guest, causa",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":27,
+        "Words":"ecos, embaúba, filmes, cinema, embaúba filmes",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":29,
+        "Words":"acesse one, one, dev, momento especial, acesse",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":30,
+        "Words":"mulheres, contra, feras feridas, feridas fernanda, ferreira morena",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":31,
+        "Words":"festival, en vivo, en, vivo, arte",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":32,
+        "Words":"afro, expostos museu, mostra movimento, inculturação afro, parte tcc",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":33,
+        "Words":"museus, centro histórico, mediadas, visitas mediadas, mediadas centro",
+        "Frequency":2,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":35,
+        "Words":"conselho, comissão eleitoral, eleitoral, comissão, membros docentes",
+        "Frequency":1,
+        "Timestamp":1745521920000
+    },
+    {
+        "Topic":-1,
+        "Words":"mágico, queimaduras, br, auxílio, edu",
+        "Frequency":7,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":0,
+        "Words":"pase, programa, edu, edu br, graduação",
+        "Frequency":15,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":1,
+        "Words":"farmacêutica, farmacêuticas, ciências farmacêuticas, simpósio, sincifar",
+        "Frequency":3,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":2,
+        "Words":"almoço, ru, jantar, restaurantes, almoço segunda",
+        "Frequency":3,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":3,
+        "Words":"livro, cinema, cineop, sentidos, dispositivos",
+        "Frequency":3,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":6,
+        "Words":"teatro, apresentação teatro, sérgio santos, cênico, música",
+        "Frequency":2,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":7,
+        "Words":"afro, vi, ouro preto, preto, ufop",
+        "Frequency":1,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":10,
+        "Words":"permanência, permanência conclusão, pne, investir, nacional",
+        "Frequency":1,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":11,
+        "Words":"rede lide, lide, rede, lide ct, ct",
+        "Frequency":1,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":12,
+        "Words":"cesta, cesta básica, nepe, básica, economia nepe",
+        "Frequency":1,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":17,
+        "Words":"bipolar, terapia cognitiva, cognitiva, psicologia medicina, transtorno",
+        "Frequency":2,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":19,
+        "Words":"autismo, fundador programa, calazans, ppgpsi, fundador",
+        "Frequency":2,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":25,
+        "Words":"inteligência artificial, artificial, inteligência, bertassi, contábeis",
+        "Frequency":3,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":28,
+        "Words":"aula, enap, nacional administração, pública enap, escola nacional",
+        "Frequency":1,
+        "Timestamp":1750213440000
+    },
+    {
+        "Topic":-1,
+        "Words":"desvinculação, defesa, apresentar defesa, cancelado, desvinculados",
+        "Frequency":1,
+        "Timestamp":1759596480000
+    },
+    {
+        "Topic":0,
+        "Words":"testagem, sexualmente, hiv, siass, testes",
+        "Frequency":2,
+        "Timestamp":1759596480000
+    },
+    {
+        "Topic":8,
+        "Words":"cabaré, sympla link, rei realização, processo montagem, lugar mostra",
+        "Frequency":1,
+        "Timestamp":1759596480000
+    },
+    {
+        "Topic":30,
+        "Words":"público informações, centro ciências, gratuitas clique, jurídicas políticas, diálogos justiça",
+        "Frequency":1,
+        "Timestamp":1759596480000
+    }
+]

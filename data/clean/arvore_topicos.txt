@@ -1,0 +1,71 @@
+.
+├─cultural_joão_centro_livro_del
+│    ├─arquitetura_urbanismo_arquitetura urbanismo_curso arquitetura_cidade
+│    │    ├─■──arquitetura_urbanismo_arquitetura urbanismo_curso arquitetura_paisagem ── Topic: 23
+│    │    └─■──centro histórico_mediadas_visitas mediadas_histórico_visitas ── Topic: 33
+│    └─cultural_livro_teatro_festival_centro
+│         ├─cultural_festival_teatro_música_centro cultural
+│         │    ├─teatro_festival_música_cultural_espetáculo
+│         │    │    ├─teatro_música_espetáculo_cultural_canto
+│         │    │    │    ├─■──música_canto_repertório_orquestra_bloco ── Topic: 6
+│         │    │    │    └─■──teatro_espetáculo_cabaré_cultural_curso teatro ── Topic: 8
+│         │    │    └─■──festival_inconsciente_imagens inconsciente_en vivo_arte ── Topic: 31
+│         │    └─ricardo_ricardo coelho_exposição_artista_artes
+│         │         ├─■──fé_exposição_religiosas_fotografia_aluã ── Topic: 15
+│         │         └─■──ricardo_artista_artistas_artes_revista ── Topic: 32
+│         └─livro_cinema_ecos_educação_editora
+│              ├─■──livro_editora_vidas_literatura_filosofia ── Topic: 3
+│              └─■──cinema_ecos_filmes_embaúba_embaúba filmes ── Topic: 27
+└─programa_graduação_pós_pesquisa_curso
+     ├─período_sisu_pesquisa_vagas_gestão
+     │    ├─período_sisu_pesquisa_nepe_cesta
+     │    │    ├─cesta_nepe_cesta básica_extensão economia_economia nepe
+     │    │    │    ├─■──nepe_cesta_cesta básica_economia nepe_extensão economia ── Topic: 12
+     │    │    │    └─■──comissão_eleição_comissão eleitoral_eleitoral_conselho ── Topic: 35
+     │    │    └─sisu_período_letivo_enem_música
+     │    │         ├─sisu_enem_música_vagas_musical
+     │    │         │    ├─■──música_enem_musical_banda_vagas ── Topic: 16
+     │    │         │    └─■──sisu_chamada regular_regular_espera_cadastramento ── Topic: 14
+     │    │         └─período_letivo_férias_resolução_almoço
+     │    │              ├─■──resolução_letivo_período_art_calendário ── Topic: 5
+     │    │              └─■──almoço_ctan_segunda_ru_manutenção ── Topic: 2
+     │    └─pgd_gestão_passo_progp_servidores
+     │         ├─■──passo_progp_sesed_progp sesed_sigrh ── Topic: 18
+     │         └─pgd_gestão_enap_planos_pública
+     │              ├─■──pgd_gestão_planos_cogam_programa gestão ── Topic: 34
+     │              └─■──enap_pública_administração pública_nacional administração_administração ── Topic: 28
+     └─programa_graduação_pós_curso_pesquisa
+          ├─programa_graduação_curso_pós_pesquisa
+          │    ├─graduação_programa_pós_curso_pesquisa
+          │    │    ├─■──violência_sexual_saúde_contra_atenção ── Topic: 30
+          │    │    └─graduação_programa_pós_curso_pesquisa
+          │    │         ├─graduação_programa_pós_curso_pesquisa
+          │    │         │    ├─■──negra_negro_diversidade_negras_africanos ── Topic: 7
+          │    │         │    └─graduação_programa_curso_pós_pesquisa
+          │    │         │         ├─graduação_curso_programa_pós_pesquisa
+          │    │         │         │    ├─■──deficiência_acessibilidade_sinac_inclusão_pessoas ── Topic: 4
+          │    │         │         │    └─■──graduação_programa_pós_curso_pesquisa ── Topic: 0
+          │    │         │         └─■──autismo_tea_ppgpsi_sessão remota_graduação psicologia ── Topic: 19
+          │    │         └─■──psicanálise_psicologia_psicanalista_gihpp_política ── Topic: 17
+          │    └─orçamento_competição_nacional_educação_universidades
+          │         ├─comunicação_jornalismo_pública_comunicação pública_educação
+          │         │    ├─prédio principal_sala prédio_prédio_dom bosco_bosco
+          │         │    │    ├─■──prédio principal_sala prédio_prédio_anos_principal ── Topic: 22
+          │         │    │    └─■──mostra_fotos_desafios digitais_aula magna_ensino ── Topic: 29
+          │         │    └─comunicação_jornalismo_pública_comunicação pública_ebc
+          │         │         ├─■──inteligência artificial_artificial_inteligência_scratch_ia ── Topic: 25
+          │         │         └─■──comunicação_jornalismo_comunicação pública_ebc_pública ── Topic: 11
+          │         └─orçamento_competição_nacional_universidades_orçamentária
+          │              ├─competição_matemática_computação_equipe_xadrez
+          │              │    ├─■──lab_living_living lab_marcos_lab biobased ── Topic: 24
+          │              │    └─competição_matemática_computação_equipe_xadrez
+          │              │         ├─■──competição_computação_equipe_maratona_programação ── Topic: 13
+          │              │         └─■──matemática_xadrez_sheila_xadrez comunidades_ana ── Topic: 9
+          │              └─orçamento_orçamentária_federais_célia_universidades
+          │                   ├─■──célia_ian_guest_ian guest_xakriabá ── Topic: 26
+          │                   └─■──orçamento_orçamentária_federais_universidades_universidades federais ── Topic: 10
+          └─biologia_suplente_bioquímica_programa_molecular
+               ├─biologia_bioquímica_molecular_biologia molecular_bioquímica biologia
+               │    ├─■──bioengenharia_bioengenharia sistemas_sistemas_mestrado_programa ── Topic: 21
+               │    └─■──biologia_bioquímica_molecular_biologia molecular_ciências ── Topic: 1
+               └─■──química_engenharia química_suplente_química ppgeq_ppgeq ── Topic: 20
